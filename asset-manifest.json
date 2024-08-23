@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-react/static/css/main.6090a13a.css",
+    "main.js": "/my-portfolio-react/static/js/main.56d2aeda.js",
+    "static/js/453.d3710559.chunk.js": "/my-portfolio-react/static/js/453.d3710559.chunk.js",
+    "static/media/dev-siv-wave.png": "/my-portfolio-react/static/media/dev-siv-wave.78dbc1eb09d13c68bd47.png",
+    "static/media/project-back.webp": "/my-portfolio-react/static/media/project-back.8037af72cb88420cf092.webp",
+    "static/media/my-picture.png": "/my-portfolio-react/static/media/my-picture.e2da25a94fd81f15ca4b.png",
+    "static/media/download.png": "/my-portfolio-react/static/media/download.f493940ff8e938f7b6a1.png",
+    "static/media/back-yellow.jpg": "/my-portfolio-react/static/media/back-yellow.710b2d6df3616aec0b68.jpg",
+    "static/media/code-book.png": "/my-portfolio-react/static/media/code-book.a6fe22c245c6ccf89633.png",
+    "static/media/algoIcon.png": "/my-portfolio-react/static/media/algoIcon.f3692ff8c63cd114a8d5.png",
+    "static/media/researchIcon.png": "/my-portfolio-react/static/media/researchIcon.256a6aad3fdf9c25a557.png",
+    "static/media/manager.png": "/my-portfolio-react/static/media/manager.a2bf2513747322ba38b3.png",
+    "static/media/dataEng.png": "/my-portfolio-react/static/media/dataEng.94b94eb09d7cb39e0564.png",
+    "static/media/bioinformaticsIcon.png": "/my-portfolio-react/static/media/bioinformaticsIcon.b631e5b68236756ad38f.png",
+    "static/media/code.png": "/my-portfolio-react/static/media/code.04b20d33d69b0ab0c75d.png",
+    "static/media/dataInfra.png": "/my-portfolio-react/static/media/dataInfra.b6b6c9e3f28d871f21db.png",
+    "static/media/dataML.png": "/my-portfolio-react/static/media/dataML.76727c10324fe089986c.png",
+    "static/media/dataVizIcon.png": "/my-portfolio-react/static/media/dataVizIcon.9cdba62e24056d75d6c6.png",
+    "static/media/cppIcon.png": "/my-portfolio-react/static/media/cppIcon.cc1ba0652edb64a5ccd0.png",
+    "static/media/fullstack.png": "/my-portfolio-react/static/media/fullstack.c55f8c01c45c8f315b09.png",
+    "static/media/business-icon.png": "/my-portfolio-react/static/media/business-icon.536b3f9820508a433cda.png",
+    "static/media/react.png": "/my-portfolio-react/static/media/react.be872b897f4fcda2085c.png",
+    "static/media/Burtons.otf": "/my-portfolio-react/static/media/Burtons.c46a2405716f236c4a9a.otf",
+    "static/media/people-image.png": "/my-portfolio-react/static/media/people-image.7273000dc11964c62eab.png",
+    "static/media/logo.svg": "/my-portfolio-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-portfolio-react/index.html",
+    "main.6090a13a.css.map": "/my-portfolio-react/static/css/main.6090a13a.css.map",
+    "main.56d2aeda.js.map": "/my-portfolio-react/static/js/main.56d2aeda.js.map",
+    "453.d3710559.chunk.js.map": "/my-portfolio-react/static/js/453.d3710559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6090a13a.css",
+    "static/js/main.56d2aeda.js"
+  ]
+}
