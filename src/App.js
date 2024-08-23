@@ -1,23 +1,43 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import Navbar from "./components/Navbar";
+import HeroSection from "./components/HeroSection";
+import AboutSection from "./components/AboutSection";
+import StatsSection from "./components/StatsSection";
+import SkillsSection from "./components/SkillsSection";
+import ResumeSection from "./components/ResumeSection";
+import ClientTestimonialSection from "./components/ClientTestimonialSection";
+import PortfolioSection from "./components/PortfolioSection";
+import ResearchSection from "./components/ResearchSection";
+import FreelanceBanner from "./components/FreelanceBanner";
+import AwardSection from "./components/AwardSection";
+import ExtraCurricularSection from "./components/ExtraCurrcularSection";
+import CertificationSection from "./components/CertificationSection";
+import SoftSkillsSection from "./components/SoftSkillsSection";
+import HobbiesAndLanguages from "./components/HobbiesAndLanguages";
+import ContactSection from "./components/ContactSection";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <main className="bg-white text-gray-900">
+        <Navbar />
+        <HeroSection />
+        <AboutSection />
+        <StatsSection />
+        <SkillsSection />
+        <ResumeSection />
+        <ClientTestimonialSection />
+        <PortfolioSection />
+        <ResearchSection />
+        <FreelanceBanner />
+        <ExtraCurricularSection />
+        <AwardSection />
+        <CertificationSection />
+        <SoftSkillsSection />
+        <HobbiesAndLanguages />
+        <ContactSection />
+      </main>
     </div>
   );
 }
